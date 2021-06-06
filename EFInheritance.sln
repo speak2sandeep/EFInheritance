@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFInheritance", "EFInheritance.csproj", "{5FFEB765-A792-4725-975C-9ABBB33171EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FFEB765-A792-4725-975C-9ABBB33171EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FFEB765-A792-4725-975C-9ABBB33171EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FFEB765-A792-4725-975C-9ABBB33171EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FFEB765-A792-4725-975C-9ABBB33171EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C196BD87-1FBB-442C-955F-0B2F1C8B81C0}
+	EndGlobalSection
+EndGlobal
