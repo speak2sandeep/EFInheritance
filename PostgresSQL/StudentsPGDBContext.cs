@@ -21,6 +21,8 @@ namespace EFInheritance.PostgresSQL
         {
             Database.SetInitializer<StudentsPGDBContext>(null);
             modelBuilder.HasDefaultSchema("dbo");
+            
+            // Foreign key declaration
             modelBuilder.Entity<department>()
                 .HasMany(e => e.students)
                 .WithRequired(e => e.department)
